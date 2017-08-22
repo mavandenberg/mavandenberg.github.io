@@ -1,3 +1,6 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+
+
 body {
   font-family: Rubik;
   font-style: normal;
@@ -29,7 +32,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'HelveticaNeue';
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
 }
 .display-4 > .mbr-iconfont {
@@ -43,7 +46,7 @@ body {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'HelveticaNeue';
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -616,7 +619,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'HelveticaNeue';
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -800,7 +803,7 @@ pre {
 }
 .cid-qsAyQxNg2U {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-qsAyQxNg2U .mbr-section-subtitle {
@@ -887,6 +890,136 @@ pre {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-qsAB88wNIv {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+@media (max-width: 767px) {
+  .cid-qsAB88wNIv .content {
+    text-align: center;
+  }
+  .cid-qsAB88wNIv .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qsAB88wNIv .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qsAB88wNIv .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qsAB88wNIv .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qsAB88wNIv .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qsAB88wNIv .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qsAB88wNIv .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qsAB88wNIv .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qsAB88wNIv .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qsAB88wNIv .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qsAB88wNIv .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qsAB88wNIv .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qsAB88wNIv H5 {
+  color: #c1c1c1;
+}
+.cid-qsB26y1i68 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qsB26y1i68 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-qsB26y1i68 .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qsDBel3nRx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qt0NxLVn2R {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-qt0NxLVn2R .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qt0NxLVn2R .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qt0NxLVn2R .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qt0NxLVn2R .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qt0NxLVn2R .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qt0NxLVn2R .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qsAB88wNIv {
   padding-top: 45px;
