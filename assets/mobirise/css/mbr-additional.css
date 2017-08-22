@@ -978,6 +978,18 @@ pre {
   padding-bottom: 0px;
   background-color: #000000;
 }
+.cid-qsB26y1i68 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qsB26y1i68 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-qsB26y1i68 .social-list a:focus {
+  text-decoration: none;
+}
 .cid-qt0NxLVn2R {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1090,16 +1102,4 @@ pre {
 }
 .cid-qsAB88wNIv H5 {
   color: #c1c1c1;
-}
-.cid-qsB26y1i68 {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #000000, #000000);
-}
-.cid-qsB26y1i68 .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ffffff;
-}
-.cid-qsB26y1i68 .social-list a:focus {
-  text-decoration: none;
 }
