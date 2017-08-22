@@ -803,7 +803,7 @@ pre {
 }
 .cid-qsAyQxNg2U {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-qsAyQxNg2U .mbr-section-subtitle {
@@ -892,8 +892,8 @@ pre {
   backface-visibility: visible;
 }
 .cid-qsAB88wNIv {
-  padding-top: 60px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
@@ -962,8 +962,8 @@ pre {
   color: #c1c1c1;
 }
 .cid-qsB26y1i68 {
-  padding-top: 0px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #000000, #000000);
 }
 .cid-qsB26y1i68 .mbr-iconfont-social {
