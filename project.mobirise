@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 94,
     "versionPublish": "4.6.3",
@@ -995,7 +995,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">interieur</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Werken, wonen, leven en leren in een inspirerende omgeving heeft een enorme positieve impact op hoe we ons voelen en gedragen. Al ruim twintig jaar leg ik mijn ziel en zaligheid in het creëren van ruimtes voor zowel de zakelijke als de particuliere markt. Een moderne ontwerpstijl van eenvoud kenmerkt mijn werk; met een passie voor de samensmelting van nieuw en oud. Ik maak indelingsvoorstellen, bouwtekeningen, ontwerp uiteenlopend maatwerk, geef adviezen over kleur, verlichting en diverse materialen. Van schetsontwerp tot complete uitvoering met begeleiding.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">interieur</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Werken, wonen, leven en leren in een inspirerende omgeving heeft een enorme positieve impact op hoe we ons voelen en gedragen. Al ruim twintig jaar leg ik mijn ziel en zaligheid in het creëren van ruimtes voor zowel de zakelijke als de particuliere markt. Een moderne ontwerpstijl van eenvoud kenmerkt mijn werk; met een passie voor de samensmelting van nieuw en oud. Ik maak indelingsvoorstellen, bouwtekeningen, ontwerp uiteenlopend maatwerk, geef adviezen over kleur, verlichting en diverse materialen. Van schetsontwerp tot complete uitvoering met begeleiding. Vraag vrijblijvend naar de mogelijkheden.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qNZO7fyoYa",
           "_anchor": "content4-2i",
           "_protectedParams": [],
@@ -1124,7 +1124,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1143,8 +1143,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a65-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a65-1080x1080-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/51623769-1609944782375304-2390033240882671289-n-320x320.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51623769-1609944782375304-2390033240882671289-n-320x320-320x320.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1155,12 +1155,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-a67-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-a67-1080x1080-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fullsizeoutput-b94-1019x1019.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizeoutput-b94-1019x1019-800x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
